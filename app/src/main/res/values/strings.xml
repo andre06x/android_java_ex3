@@ -14,4 +14,6 @@
     <string name="label_matricula">Matricula</string>
     <string name="label_nome">Nome</string>
 
+    <string name="voltar">VOLTAR</string>
+
 </resources>
