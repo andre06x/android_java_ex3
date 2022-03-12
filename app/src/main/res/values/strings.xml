@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tela de Login - Aluno André</string>
+
+    <string name="cadastro">Cadastro de Clientes</string>
+    <string name="informe">Informe seu Login e Senha para Continuar</string>
+
+    <string name="label_usuario">Usuário</string>
+    <string name="label_senha">Senha</string>
+
+    <string name="acesso_app">ACESSO AO APP</string>
+
+    <string name="inclusao">Inclusão de Clientes</string>
+
+    <string name="label_matricula">Matricula</string>
+    <string name="label_nome">Nome</string>
+
+</resources>
